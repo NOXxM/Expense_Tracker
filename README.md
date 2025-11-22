@@ -58,8 +58,3 @@ CREATE DATABASE expense_tracker;
 6. Open the HTML files in your browser or use a live server extension to view the app.  
 
 ---
-
-## Contributing
-
-Feel free to fork the repo, submit issues, or create pull requests.  
-Maintain the project structure and coding style.
